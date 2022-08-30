@@ -107,12 +107,8 @@ Unit testing a web app can be difficult, so we can test simple behaviours such a
 To run these tests, you can run python -m pytest tests from the root directory. You should always run these tests before pushing/deploying new code, as they can catch out bugs. In fact, the CI/CD pipeline will run the tests for you, meaning that if a test fails, the pipeline will stop and your code won't be deployed until you fix the code causing the tests to fail.
 
 IMAGES:
-![Screenshot (192)](https://user-images.githubusercontent.com/88579806/187338432-3dfa9afb-574b-4f9e-83a6-f12a7bbc1d0f.png)
+![Screenshot (197)](https://user-images.githubusercontent.com/88579806/187338731-828a0755-b375-4594-80be-53dc6ba1e21f.png)
 
-![Screenshot (193)](https://user-images.githubusercontent.com/88579806/187338448-084b2434-56b7-400c-8217-0b0ff8e3e6fb.png)
+![Screenshot (198)](https://user-images.githubusercontent.com/88579806/187338742-93d3e9f1-6d3a-4404-ae6f-423b63441bd7.png)
 
-![Screenshot (194)](https://user-images.githubusercontent.com/88579806/187338463-c9c7bf89-fb80-4847-a80b-d9fdad7fc902.png)
-
-![Screenshot (195)](https://user-images.githubusercontent.com/88579806/187338479-2ab4444e-9fa3-46e7-a7ec-ca8000ceb63b.png)
-
-![Screenshot (196)](https://user-images.githubusercontent.com/88579806/187338497-b78e35a9-36bd-4203-a60e-a37a14f5fc1f.png)
+![Screenshot (199)](https://user-images.githubusercontent.com/88579806/187338753-4ca601f2-fc55-4b05-bdec-a90dbed68962.png)
