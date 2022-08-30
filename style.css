@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+   
+    
+}
+
+.ban {
+    background-image: url(./mountains-under-mist-morning-amazing-260nw-1725825019.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+.form-group{
+    margin: 0 auto;
+    border: 1px solid white;
+    height: auto;
+    padding: 10px;
+}
+footer {
+    text-align: left;
+}
